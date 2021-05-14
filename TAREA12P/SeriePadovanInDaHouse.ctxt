@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SeriePadovanInDaHouse
+comment1.params=
+comment1.target=SeriePadovanInDaHouse()
+comment2.params=posicion
+comment2.target=int\ DeterminarPosicionenlaserie(int)
+numComments=3
